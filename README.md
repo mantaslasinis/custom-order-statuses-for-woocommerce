@@ -21,7 +21,7 @@ This plugin demonstrates expertise in:
 
 ## Deprecation
 
-The plugin was released in early 2021. After 6 months, due to failed monetization efforts, increasing amount of users, and by extension - increasing amount of support, the plugin was abandoned, and finally closed by wordpress in 2024.
+The plugin was released in early 2022. After 6 months, due to failed monetization efforts, increasing amount of users, and by extension - increasing amount of support, the plugin was abandoned, and finally closed by wordpress in 2024.
 
 ## WordPress Plugin Directory
 
